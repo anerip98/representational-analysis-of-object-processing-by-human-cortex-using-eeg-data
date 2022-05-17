@@ -11,10 +11,15 @@ Brain responses were recorded while participants viewed a set of 72 photographs 
 Data (X_3D): 124(channels or features) x 32 (time points) x 5188(trials)
 Classification Labels: 1 x 5188 (trials)
 
-# Method
+## Method
   * Binary classification using artificial neural networks to identify whether the stimulus is a human face or an inanimate object at each time step.
   * Multiclass classification (6 classes - ...) using artificial neural networks at each time step.
 
-# Conclusions:
+## Conclusions:
 
 The data analysis revealed that brain responses to images of human faces formed the most distinct category while responses to images from the two inanimate categories formed a single category cluster.
+
+
+## References:
+
+[1] Kaneshiro, Blair, et al. "A representational similarity analysis of the dynamics of object processing using single-trial EEG classification." Plos one 10.8 (2015): e0135697.
