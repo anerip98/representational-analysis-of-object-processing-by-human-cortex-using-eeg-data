@@ -1,4 +1,4 @@
-# representational-analysis-of-object-processing-by-human-cortex-using-eeg-data
+# Representational Analysis of Object Processing by Human Cortex using EEG Data
 
 Work in this notebook is based on "A Representational Similarity Analysis of the Dynamics of Object Processing Using Single- Trial EEG Classification". How the human brain responds to various inputs from the vision cortex is analyzed using EEG data.
 
