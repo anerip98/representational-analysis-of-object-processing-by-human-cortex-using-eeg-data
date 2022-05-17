@@ -13,7 +13,7 @@ Classification Labels: 1 x 5188 (trials)
 
 ## Method
   * Binary classification using artificial neural networks to identify whether the stimulus is a human face or an inanimate object at each time step.
-  * Multiclass classification (6 classes - ...) using artificial neural networks at each time step.
+  * Multiclass classification (6 classes) using artificial neural networks at each time step.
 
 ## Conclusions:
 
