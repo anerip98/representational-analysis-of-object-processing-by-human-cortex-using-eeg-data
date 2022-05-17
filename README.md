@@ -1,6 +1,6 @@
 # representational-analysis-of-object-processing-by-human-cortex-using-eeg-data
 
-Work in this notebook is based on "A Representational Similarity Analysis of the Dynamics of Object Processing Using Single- Trial EEG Classification".
+Work in this notebook is based on "A Representational Similarity Analysis of the Dynamics of Object Processing Using Single- Trial EEG Classification". How the human brain responds to various inputs from the vision cortex is analyzed using EEG data.
 
 The recognition of object categories is effortlessly accomplished in everyday life, yet its neural underpinnings remain not fully understood. As a part of a project for a course in Machine Learning for Data Mining, we performed single-trial classification to perform a Representational Similarity Analysis (RSA) of categorical representation of objects in human visual cortex using EEG.
 
@@ -10,10 +10,6 @@ Data
 Brain responses were recorded while participants viewed a set of 72 photographs of objects with a planned category structure.
 Data (X_3D): 124(channels or features) x 32 (time points) x 5188(trials)
 Classification Labels: 1 x 5188 (trials)
-
-# General problem statement
-
-Analyse how the human brain responds to various inputs from the vision cortex, using EEG data.
 
 # Method
   * Binary classification using artificial neural networks to identify whether the stimulus is a human face or an inanimate object at each time step.
